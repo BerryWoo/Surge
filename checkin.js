@@ -14,7 +14,7 @@ GitHub: Neurogram-R
 */
 
 const accounts = [
-    ["DlerCloud", "https://dlercloud.com/auth/login", "judging.wo@gmail.com", "today.123"]
+    ["DlerCloud", "https://dlercloud.co/auth/login", "judging.wo@gmail.com", "today.123"]
 ]
 
 async function launch() {
